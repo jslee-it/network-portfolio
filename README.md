@@ -24,7 +24,13 @@ The labs focus on structured design, dynamic routing implementation, access cont
 - Multi-hop EIGRP deployment  
 - Serial WAN configuration with DCE clocking  
 - Extended ACL implementation for asymmetric traffic control  
-- EIGRP metric manipulation and validation  
+- EIGRP metric manipulation and validation
+
+### Scalable Network Expansion and Policy Enforcement (ROAS + EIGRP + ACL)
+- HQ migration to Router-on-a-Stick for segmented VLAN architecture
+- Branch Growth LAN deployment with verified EIGRP convergence
+- Dedicated server VLAN implementation (10.10.40.0/24)
+- Extended ACL design, sequencing correction, and policy validation
 
 ---
 
