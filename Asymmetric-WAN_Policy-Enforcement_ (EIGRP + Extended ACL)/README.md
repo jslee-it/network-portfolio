@@ -1,4 +1,4 @@
-#Asymmetric WAN Policy Enforcement (EIGRP + Extended ACL)
+# Asymmetric WAN Policy Enforcement (EIGRP + Extended ACL)
 
 ## Overview
 
@@ -123,4 +123,5 @@ Result: Verified delay influence on EIGRP route cost and composite metric recalc
 ## Outcome
 
 Successfully integrated dynamic routing and access control within a multi-hop WAN environment. Demonstrated controlled traffic enforcement while maintaining routing adjacency and inter-site connectivity. This lab reinforces practical enterprise networking concepts including routing protocol deployment, policy-based traffic control, and metric engineering.
+
 
