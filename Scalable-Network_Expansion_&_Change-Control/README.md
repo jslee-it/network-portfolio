@@ -1,4 +1,4 @@
-# Scalable Network Expansion and Policy Enforcement
+# Scalable Network Expansion and Change Control
 
 ## Overview
 
@@ -91,4 +91,5 @@ Configured extended ACL on R3 to restrict branch-to-server communication:
 
 
 The network expansion was successfully implemented without disrupting existing site connectivity. HQ migration to ROAS improved segmentation and scalability, while integration of the Branch Growth LAN was completed with stable EIGRP route propagation across all routers. Targeted access control was enforced through a correctly sequenced extended ACL, validated using controlled testing and hit counter analysis. Post-change verification confirmed routing stability, preserved permitted traffic flows, and demonstrated effective change control within a multi-site enterprise topology.
+
 
