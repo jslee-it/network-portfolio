@@ -32,11 +32,18 @@ The labs focus on structured design, dynamic routing implementation, access cont
 - Dedicated server VLAN implementation (10.10.40.0/24)
 - Extended ACL design, sequencing correction, and policy validation
 
+### Inherited Enterprise Network Troubleshooting & Service Restoration (EIGRP + DHCP + DNS + ACL)
+- Multi-site troubleshooting across hub-and-spoke WAN topology
+- Identified and corrected missing EIGRP route advertisement (10.14.81.0/24)
+- Restored DHCP functionality via relay configuration on branch VLAN interface
+- Diagnosed DNS resolution failure caused by ACL blocking port 53 traffic
+- Layered validation of routing, infrastructure services, and security policies
+
 ---
 
 ## In Progress
 
-Additional labs expanding on WAN design, routing control, and infrastructure services (DHCP/DNS integration) are currently in development.
+Additional labs to expand this portofolio are coming soon.
 
 ---
 
